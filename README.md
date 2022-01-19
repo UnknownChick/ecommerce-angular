@@ -19,7 +19,7 @@ Voir le [projet](https://ecommerce-angular-one.vercel.app/)
 
 ## <a name="tache"></a>Tâche
 
-* [ ]
+* [x] Mise en place du projet
 
 ## <a name="commande"></a>Commande
 
