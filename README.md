@@ -4,6 +4,8 @@ Projet LP AMIO : Programmation web côté client
 
 Site web ecommerce dévelopé avec le framework Angular
 
+Voir le [projet](https://ecommerce-angular-one.vercel.app/)
+
 ## Navigation
 
 - [Equipe](#equipe)
